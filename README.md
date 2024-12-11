@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umayangi Rajapaksha</h1>
 <h3 align="center">Aspiring Cybersecurity Specialist with a Passion for Digital Defense</h3>
 
-<p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/photos/1301043258/display_1500/stock-photo-cyber-security-concept-with-lock-and-key-on-blue-background-internet-privacy-protection-and-1301043258.jpg" alt="Cybersecurity" width="500" height="300"/>
-</p>
+
 
 <p align="center">
   <em>🌱 I’m currently learning <strong>Cyber Security</strong></em><br>
