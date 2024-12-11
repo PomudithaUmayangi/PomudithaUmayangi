@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umayangi Rajapaksha</h1>
-<h3 align="center">Aspiring Cybersecurity Specialist with a Passion for Digital Defense</h3>
+<h3 align="center">Aspiring Cybersecurity Undergraduate with a Passion for Digital Defense</h3>
 
 
 
