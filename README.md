@@ -67,7 +67,6 @@
 </p>
 
 
-
 <h3 align="left">Contribution Graph:</h3>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pomudithaumayangi&theme=github-dark&hide_title=true&line=2ecc71&area=true&custom_title=Contribution%20Graph&height=150&loop=true" alt="GitHub Activity Graph" />
