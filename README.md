@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umayangi Rajapaksha</h1>
 <h3 align="center">Aspiring Cybersecurity Undergraduate with a Passion for Digital Defense</h3>
 
-
-
 <p align="center">
   <em>🌱 I’m currently learning <strong>Cyber Security</strong></em><br>
   <em>💬 Ask me about <strong>Cybersecurity trends and best practices, Building secure web applications, How to protect data in the cloud</strong></em><br>
@@ -11,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/umayangi-rajapaksha" target="blank">
+  <a href="http://www.linkedin.com/in/umayangi-rajapaksha-51601a2a1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umayangi rajapaksha" height="30" width="40" />
   </a>
 </p>
@@ -55,8 +53,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pomudithaumayangi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Umayangi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pomudithaumayangi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&border_color=ffffff&line_height=40&bg_color=000000" alt="Umayangi's GitHub Stats" />
 </p>
+
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
@@ -67,3 +66,31 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pomudithaumayangi&theme=radical" alt="GitHub Streak" />
 </p>
+
+<h3 align="left">Contribution Graph:</h3>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pomudithaumayangi&theme=github-dark&hide_title=true&line=2ecc71&area=true&custom_title=Contribution%20Graph&height=150&loop=true" alt="GitHub Activity Graph" />
+</p>
+
+
+
+<h3 align="left">Visitors Count:</h3>
+<p align="left">
+  <img src="https://profile-counter.glitch.me/pomudithaumayangi/count.svg" alt="Visitor Count" />
+</p>
+
+<h3 align="left">Recent Blog Posts:</h3>
+<p align="left">
+  <a href="https://medium.com/@pomudithaumayangi">
+    <img src="https://img.shields.io/badge/Read%20My%20Blog%20Posts-%20-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Posts" />
+  </a>
+</p>
+
+
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/umayangi-rajapaksha">
+    <img src="https://img.shields.io/badge/Certifications-%20-green?style=for-the-badge&logo=certifications&logoColor=white&color=4c8bf5&animate=true" alt="Certifications" />
+  </a>
+</p>
+
