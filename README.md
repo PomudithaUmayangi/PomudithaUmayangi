@@ -53,18 +53,20 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pomudithaumayangi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&border_color=ffffff&line_height=40&bg_color=000000" alt="Umayangi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pomudithaumayangi&show_icons=true&count_private=true&hide=prs&theme=radical&border_radius=10&hide_title=true&bg_color=000000&line_height=40" alt="Umayangi's GitHub Stats" />
 </p>
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pomudithaumayangi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pomudithaumayangi&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
 </p>
 
 <h3 align="left">GitHub Streak:</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pomudithaumayangi&theme=radical" alt="GitHub Streak" />
 </p>
+
+
 
 <h3 align="left">Contribution Graph:</h3>
 <p align="left">
