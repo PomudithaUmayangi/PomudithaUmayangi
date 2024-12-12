@@ -12,7 +12,11 @@
   <a href="http://www.linkedin.com/in/umayangi-rajapaksha-51601a2a1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umayangi rajapaksha" height="30" width="40" />
   </a>
+
 </p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -86,8 +90,8 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/umayangi-rajapaksha">
-    <img src="https://img.shields.io/badge/Certifications-%20-green?style=for-the-badge&logo=certifications&logoColor=white&color=4c8bf5&animate=true" alt="Certifications" />
-  </a>
+<a href="https://www.credly.com/users/umayangi-rajapaksha" target="blank">
+  <img src="https://img.shields.io/badge/Certifications-%20-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
+</a>
 </p>
 
