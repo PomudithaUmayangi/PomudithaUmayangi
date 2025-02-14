@@ -15,6 +15,14 @@
 
 </p>
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+<a href="https://www.credly.com/users/umayangi-rajapaksha" target="blank">
+  <img src="https://img.shields.io/badge/Certifications-%20-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
+</a>
+</p>
+
+
 
 
 
@@ -83,10 +91,4 @@
 
 
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-<a href="https://www.credly.com/users/umayangi-rajapaksha" target="blank">
-  <img src="https://img.shields.io/badge/Certifications-%20-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
-</a>
-</p>
 
