@@ -81,12 +81,7 @@
   <img src="https://profile-counter.glitch.me/pomudithaumayangi/count.svg" alt="Visitor Count" />
 </p>
 
-<h3 align="left">Recent Blog Posts:</h3>
-<p align="left">
-  <a href="[https://medium.com/@pomudithaumayangi](https://medium.com/@umayangirajapaksha2019/uni-life-b872c84ba236)">
-    <img src="https://img.shields.io/badge/Read%20My%20Blog%20Posts-%20-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Posts" />
-  </a>
-</p>
+
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
