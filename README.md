@@ -62,7 +62,7 @@
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pomudithaumayangi&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pomudithaumayangi&layout=compact&theme=radical&hide_title=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <h3 align="left">GitHub Streak:</h3>
