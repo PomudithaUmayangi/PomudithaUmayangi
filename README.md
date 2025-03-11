@@ -68,10 +68,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pomudithaumayangi&show_icons=true&count_private=true&hide=prs&theme=radical&border_radius=10&hide_title=true&bg_color=000000&line_height=40" alt="Umayangi's GitHub Stats" />
 </p>
 
+
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pomudithaumayangi&layout=compact&theme=radical&hide_title=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pomudithaumayangi&layout=compact&theme=radical&hide_title=true&cache_seconds=3600" alt="Top Languages" />
 </p>
+
+
 
 <h3 align="left">GitHub Streak:</h3>
 <p align="left">
