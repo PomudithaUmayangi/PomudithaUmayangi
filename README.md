@@ -1,10 +1,10 @@
 <h1 align="center">Hellooo 👋, I'm Umayangi Rajapaksha</h1>
-<h3 align="center">Aspiring Cybersecurity Undergraduate with a Passion for Digital Defense</h3>
+<h3 align="center">Aspiring Cybersecurity Undergraduate with a Passion for Digital Defense 🔐</h3>
 
 <p align="center">
   <em>🌱 I’m currently learning <strong>Cyber Security</strong></em><br>
   <em>💬 Ask me about <strong>Cybersecurity trends and best practices, Building secure web applications, How to protect data in the cloud</strong></em><br>
-  <em>⚡ Fun fact: <strong>I’m a music enthusiast who finds rhythm in debugging code and securing systems!</strong></em>
+  <em>⚡ Fun fact: <strong>I’m a music enthusiast who finds rhythm in debugging code and securing systems!</strong> 🎶</em>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,21 +12,16 @@
   <a href="http://www.linkedin.com/in/umayangi-rajapaksha-51601a2a1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umayangi rajapaksha" height="30" width="40" />
   </a>
-
 </p>
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">Certifications 🏆:</h3>
 <p align="left">
-<a href="https://www.credly.com/users/umayangi-rajapaksha" target="blank">
-  <img src="https://img.shields.io/badge/Certifications-%20-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
-</a>
+  <a href="https://www.credly.com/users/umayangi-rajapaksha" target="blank">
+    <img src="https://img.shields.io/badge/Certifications-%20-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
+  </a>
 </p>
 
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 💻:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -63,35 +58,30 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats 📊:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pomudithaumayangi&show_icons=true&count_private=true&hide=prs&theme=radical&border_radius=10&hide_title=true&bg_color=000000&line_height=40" alt="Umayangi's GitHub Stats" />
 </p>
 
-
-<h3 align="left">Top Languages:</h3>
+<h3 align="left">Top Languages 🗣️:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pomudithaumayangi&layout=compact&theme=radical&hide_title=true&cache_seconds=3600" alt="Top Languages" />
 </p>
 
-
-
-<h3 align="left">GitHub Streak:</h3>
+<h3 align="left">GitHub Streak 🔥:</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pomudithaumayangi&theme=radical" alt="GitHub Streak" />
 </p>
 
-
-<h3 align="left">Contribution Graph:</h3>
+<h3 align="left">Contribution Graph 📈:</h3>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pomudithaumayangi&theme=github-dark&hide_title=true&line=2ecc71&area=true&custom_title=Contribution%20Graph&height=150&loop=true" alt="GitHub Activity Graph" />
 </p>
 
-<h3 align="left">Visitors Count:</h3>
+<h3 align="left">Visitors Count 👀:</h3>
 <p align="left">
   <img src="https://profile-counter.glitch.me/pomudithaumayangi/count.svg" alt="Visitor Count" />
 </p>
-
 
 
 
